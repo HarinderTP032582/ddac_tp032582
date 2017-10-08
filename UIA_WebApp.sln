@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIA_WebApp", "UIA_WebApp\UIA_WebApp.csproj", "{1C83FDA7-B008-4657-8282-ECC7BAB61A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIA_WebApp.Tests", "UIA_WebApp.Tests\UIA_WebApp.Tests.csproj", "{B6BCD75C-C408-49A6-A66E-C53DA7E5445C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C83FDA7-B008-4657-8282-ECC7BAB61A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C83FDA7-B008-4657-8282-ECC7BAB61A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C83FDA7-B008-4657-8282-ECC7BAB61A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C83FDA7-B008-4657-8282-ECC7BAB61A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BCD75C-C408-49A6-A66E-C53DA7E5445C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BCD75C-C408-49A6-A66E-C53DA7E5445C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BCD75C-C408-49A6-A66E-C53DA7E5445C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BCD75C-C408-49A6-A66E-C53DA7E5445C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
