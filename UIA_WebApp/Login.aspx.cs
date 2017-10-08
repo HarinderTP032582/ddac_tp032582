@@ -48,7 +48,7 @@ namespace UIA_WebApp
                                         Session["New"] = emailTBox2.Text;
                                         string message1 = "Password is correct!";
                                         Response.Write("<script>alert('" + message1 + "')</script>");
-                                        Response.Redirect("Default.aspx");
+                                        Response.Redirect("homepage.aspx");
                                         con.Close();
                                     }
                                     else
